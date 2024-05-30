@@ -1,2 +1,2 @@
 #### Dice Game
-Developed with JavaScript
+Developed with JavaScript, HTML and CSS.
